@@ -1,4 +1,4 @@
-# 🚀 **Kotlin Coroutines & Suspend Functions - Explained**  
+# 🚀 **Kotlin Coroutines**  
 
 ## 📌 **Overview**  
 This project demonstrates how to use **Kotlin Coroutines** in an Android application to handle background tasks efficiently. It covers:  
